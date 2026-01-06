@@ -106,8 +106,8 @@ Datasets are cloned directly from GitHub during runtime.
 ## 📓 Google Colab Notebook
 All code and experiments are available in the Google Colab notebook:
 
-👉 **Colab Notebook Link:**  
-`https://colab.research.google.com/drive/1VGyr3Puy2PtpUmnO4qi1MUhOsM-zNKuV?usp=sharing`
+👉 **Colab Notebook Link:** 
+[Click to access Colab Notebook](https://colab.research.google.com/drive/1VGyr3Puy2PtpUmnO4qi1MUhOsM-zNKuV?usp=sharing)
 
 > ⚠️ Note: No source code is stored directly in this repository.  
 > The repository serves as **documentation and project reference**.
